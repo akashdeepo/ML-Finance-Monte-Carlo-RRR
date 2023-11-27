@@ -1,4 +1,4 @@
-# ML-Finance-Monte-Carlo-RRR-
+# ML-Finance-Monte-Carlo-RRR
 
 ## Advanced Financial Market Forecasting: Integrating Monte Carlo Simulations with Ensemble Machine Learning Models
 
@@ -17,7 +17,7 @@ This repository hosts the code and associated data for the project "Advanced Fin
 1. **Clone the Repository**
    - Clone this repo to your local machine using:
      ```
-     git clone https://github.com/akashdeepo/ML-Finance-Monte-Carlo-RRR-
+     git clone https://github.com/akashdeepo/ML-Finance-Monte-Carlo-RRR
      ```
 
 2. **Installation**
@@ -36,7 +36,7 @@ This repository hosts the code and associated data for the project "Advanced Fin
 
 ### Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/akashdeepo/ML-Finance-Monte-Carlo-RRR-/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/akashdeepo/ML-Finance-Monte-Carlo-RRR/issues) if you want to contribute.
 
 ### License
 
